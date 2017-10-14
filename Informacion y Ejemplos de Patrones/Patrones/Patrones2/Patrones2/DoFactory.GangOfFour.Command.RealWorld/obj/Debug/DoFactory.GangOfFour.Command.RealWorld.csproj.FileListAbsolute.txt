@@ -1,0 +1,10 @@
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Command.RealWorld\bin\Debug\DoFactory.GangOfFour.Command.RealWorld.exe
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Command.RealWorld\bin\Debug\DoFactory.GangOfFour.Command.RealWorld.pdb
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Command.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Command.RealWorld\obj\Debug\DoFactory.GangOfFour.Command.RealWorld.exe
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Command.RealWorld\obj\Debug\DoFactory.GangOfFour.Command.RealWorld.pdb
+C:\Users\NXT01\Desktop\Patrones2\DoFactory.GangOfFour.Command.RealWorld\bin\Debug\DoFactory.GangOfFour.Command.RealWorld.exe
+C:\Users\NXT01\Desktop\Patrones2\DoFactory.GangOfFour.Command.RealWorld\bin\Debug\DoFactory.GangOfFour.Command.RealWorld.pdb
+C:\Users\NXT01\Desktop\Patrones2\DoFactory.GangOfFour.Command.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NXT01\Desktop\Patrones2\DoFactory.GangOfFour.Command.RealWorld\obj\Debug\DoFactory.GangOfFour.Command.RealWorld.exe
+C:\Users\NXT01\Desktop\Patrones2\DoFactory.GangOfFour.Command.RealWorld\obj\Debug\DoFactory.GangOfFour.Command.RealWorld.pdb

@@ -1,0 +1,10 @@
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.dll
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.pdb
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.dll
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.dll
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.dll
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.pdb

@@ -1,0 +1,10 @@
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\bin\Debug\PSSinDecorar.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\bin\Debug\PSSinDecorar.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\bin\Debug\PSSinDecorar.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\obj\Debug\PSSinDecorar.Resources.resources
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\obj\Debug\GenerateResource.read.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\obj\Debug\GenerateResource.write.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\obj\Debug\PSSinDecorar.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\obj\Debug\PSSinDecorar.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\PSSinDecorar\obj\Debug\PSSinDecorar.pdb

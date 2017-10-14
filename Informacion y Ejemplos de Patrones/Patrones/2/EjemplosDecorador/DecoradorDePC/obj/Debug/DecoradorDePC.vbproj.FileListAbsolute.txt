@@ -1,0 +1,10 @@
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\bin\Debug\DecoradorDePC.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\bin\Debug\DecoradorDePC.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\bin\Debug\DecoradorDePC.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\obj\Debug\DecoradorDePC.Resources.resources
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\obj\Debug\GenerateResource.read.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\obj\Debug\GenerateResource.write.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\obj\Debug\DecoradorDePC.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\obj\Debug\DecoradorDePC.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\DecoradorDePC\obj\Debug\DecoradorDePC.pdb

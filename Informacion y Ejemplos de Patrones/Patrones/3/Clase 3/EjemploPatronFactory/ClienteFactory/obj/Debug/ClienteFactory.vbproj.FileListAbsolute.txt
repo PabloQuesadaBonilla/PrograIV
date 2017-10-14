@@ -1,0 +1,13 @@
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\bin\ClienteFactory.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\bin\ClienteFactory.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\bin\ClienteFactory.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\bin\ConnectionFactory.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\bin\ConnectionFactory.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\bin\ConnectionFactory.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\obj\Debug\ClienteFactory.Resources.resources
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\obj\Debug\GenerateResource.read.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\obj\Debug\GenerateResource.write.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\obj\Debug\ClienteFactory.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\obj\Debug\ClienteFactory.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ClienteFactory\obj\Debug\ClienteFactory.pdb

@@ -1,0 +1,32 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2E301872-EB79-4F72-81EF-AFF9EB034451/f:IMedioDeTransporte.vb" caret="0" fromTop="0" />
+      <File id="2E301872-EB79-4F72-81EF-AFF9EB034451/f:Avion.vb" caret="0" fromTop="0" />
+      <File id="2E301872-EB79-4F72-81EF-AFF9EB034451/f:Transporte.vb" caret="0" fromTop="0" />
+      <File id="2E301872-EB79-4F72-81EF-AFF9EB034451/f:Ferrarivb.vb" caret="0" fromTop="0" />
+      <File id="2E301872-EB79-4F72-81EF-AFF9EB034451/f:AlgoritmoViajoPorAgua.vb" caret="193" fromTop="3" />
+      <File id="CFFB4F53-9677-41D0-87BE-23699403F2BF/f:ConsumeServicios.aspx" caret="0" fromTop="0" />
+      <File id="CFFB4F53-9677-41D0-87BE-23699403F2BF/f:ConsumeServicios.aspx.vb" caret="638" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,9 @@
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Strategy.RealWorld\bin\Debug\DoFactory.GangOfFour.Strategy.RealWorld.exe
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Strategy.RealWorld\bin\Debug\DoFactory.GangOfFour.Strategy.RealWorld.pdb
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Strategy.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Strategy.RealWorld\obj\Debug\DoFactory.GangOfFour.Strategy.RealWorld.exe
+C:\Users\NXT01\Desktop\Arquitectura\Design Pattern Framework 2.0 CS\Design Pattern Framework 2.0 CS\Gang Of Four\DoFactory.GangOfFour.Strategy.RealWorld\obj\Debug\DoFactory.GangOfFour.Strategy.RealWorld.pdb
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Strategy.RealWorld\obj\Debug\DoFactory.GangOfFour.Strategy.RealWorld.exe
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Strategy.RealWorld\obj\Debug\DoFactory.GangOfFour.Strategy.RealWorld.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\DoFactory.GangOfFour.Strategy.RealWorld\obj\Debug\DoFactory.GangOfFour.Strategy.RealWorld.exe
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\DoFactory.GangOfFour.Strategy.RealWorld\obj\Debug\DoFactory.GangOfFour.Strategy.RealWorld.pdb

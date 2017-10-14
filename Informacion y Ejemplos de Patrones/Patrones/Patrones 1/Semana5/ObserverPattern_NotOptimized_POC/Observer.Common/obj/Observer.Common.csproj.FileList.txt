@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Observer.Common.dll
+bin\Debug\Observer.Common.pdb
+obj\Debug\Observer.Common.dll
+obj\Debug\Observer.Common.pdb

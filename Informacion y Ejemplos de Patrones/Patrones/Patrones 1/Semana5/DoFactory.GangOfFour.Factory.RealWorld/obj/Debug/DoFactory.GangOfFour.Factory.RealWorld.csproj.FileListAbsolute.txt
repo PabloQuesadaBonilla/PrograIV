@@ -1,0 +1,10 @@
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\DoFactory.GangOfFour.Factory.RealWorld.exe
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\DoFactory.GangOfFour.Factory.RealWorld.pdb
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\DoFactory.GangOfFour.Factory.RealWorld.exe
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\DoFactory.GangOfFour.Factory.RealWorld.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\DoFactory.GangOfFour.Factory.RealWorld.exe
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\DoFactory.GangOfFour.Factory.RealWorld.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\DoFactory.GangOfFour.Factory.RealWorld.exe
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\DoFactory.GangOfFour.Factory.RealWorld\bin\Debug\DoFactory.GangOfFour.Factory.RealWorld.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\DoFactory.GangOfFour.Factory.RealWorld\obj\Debug\ResolveAssemblyReference.cache

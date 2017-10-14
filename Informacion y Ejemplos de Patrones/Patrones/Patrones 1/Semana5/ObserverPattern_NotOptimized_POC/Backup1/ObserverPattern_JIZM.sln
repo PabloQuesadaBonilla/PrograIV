@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern_JIZM", "ObserverPattern_NotOptimized_POC\ObserverPattern_JIZM.csproj", "{DA0E0BB3-61F4-4CAA-B13C-1FA28BABA2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Common", "Observer.Common\Observer.Common.csproj", "{B9829BDE-23B1-4945-95A9-1E331F16312A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0E0BB3-61F4-4CAA-B13C-1FA28BABA2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0E0BB3-61F4-4CAA-B13C-1FA28BABA2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0E0BB3-61F4-4CAA-B13C-1FA28BABA2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0E0BB3-61F4-4CAA-B13C-1FA28BABA2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9829BDE-23B1-4945-95A9-1E331F16312A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9829BDE-23B1-4945-95A9-1E331F16312A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9829BDE-23B1-4945-95A9-1E331F16312A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9829BDE-23B1-4945-95A9-1E331F16312A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

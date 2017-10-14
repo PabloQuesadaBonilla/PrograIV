@@ -1,0 +1,10 @@
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\bin\Debug\ConnectionFactory.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\bin\Debug\ConnectionFactory.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\bin\Debug\ConnectionFactory.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\obj\Debug\ConnectionFactory.Resources.resources
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\obj\Debug\GenerateResource.read.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\obj\Debug\GenerateResource.write.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\obj\Debug\ConnectionFactory.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\obj\Debug\ConnectionFactory.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemploPatronFactory\ConnectionFactory\obj\Debug\ConnectionFactory.pdb

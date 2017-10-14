@@ -1,0 +1,10 @@
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\bin\Debug\EjemploConPatrones.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\bin\Debug\EjemploConPatrones.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\bin\Debug\EjemploConPatrones.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\obj\Debug\EjemploConPatrones.Resources.resources
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\obj\Debug\GenerateResource.read.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\obj\Debug\GenerateResource.write.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\obj\Debug\EjemploConPatrones.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\obj\Debug\EjemploConPatrones.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosPatrones\EjemploConPatrones\obj\Debug\EjemploConPatrones.pdb

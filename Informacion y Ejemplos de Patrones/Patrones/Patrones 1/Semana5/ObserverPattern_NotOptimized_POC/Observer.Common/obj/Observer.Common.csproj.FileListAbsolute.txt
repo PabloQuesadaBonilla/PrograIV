@@ -1,0 +1,15 @@
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.dll
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.pdb
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.dll
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.pdb
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Debug\Observer.Common.dll
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Debug\Observer.Common.pdb
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Debug\Observer.Common.dll
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Debug\Observer.Common.pdb
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.dll
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\bin\Release\Observer.Common.pdb
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.dll
+C:\Documents and Settings\jzamora\Escritorio\Maestria\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\Observer.Common\obj\Release\Observer.Common.pdb

@@ -1,0 +1,13 @@
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\bin\ClienteDecorador.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\bin\ClienteDecorador.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\bin\ClienteDecorador.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\bin\DecoradorDePC.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\bin\DecoradorDePC.pdb
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\bin\DecoradorDePC.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\obj\Debug\ClienteDecorador.Resources.resources
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\obj\Debug\GenerateResource.read.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\obj\Debug\GenerateResource.write.1.tlog
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\obj\Debug\ClienteDecorador.dll
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\obj\Debug\ClienteDecorador.xml
+c:\users\ulacit\documents\visual studio 2010\Projects\EjemplosDecorador\ClienteDecorador\obj\Debug\ClienteDecorador.pdb

@@ -1,0 +1,27 @@
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.exe
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.pdb
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\ObserverPattern_JIZM.exe
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\ObserverPattern_JIZM.pdb
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\Observer.Common.dll
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\Observer.Common.pdb
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_NotOptimized_POC.NotifyBannerForm.resources
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_NotOptimized_POC.NotifyListForm.resources
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.Properties.Resources.resources
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_NotOptimized_POC.Subject.resources
+C:\Users\NXT01\Desktop\Maestrias\Maestria TI\Materias Cursadas\Desarrollo Software (Roger)\ObserverPattern\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.csproj.GenerateResource.Cache
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.exe
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.exe
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\ObserverPattern_JIZM.exe
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\ObserverPattern_JIZM.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\Observer.Common.dll
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\bin\Release\Observer.Common.pdb
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_NotOptimized_POC.NotifyBannerForm.resources
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_NotOptimized_POC.NotifyListForm.resources
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_JIZM.Properties.Resources.resources
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ObserverPattern_NotOptimized_POC.Subject.resources
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ResGen.read.1.tlog
+C:\Users\ulacit\Desktop\TOOP\Patrones 1\Semana5\ObserverPattern_NotOptimized_POC\ObserverPattern_NotOptimized_POC\obj\Release\ResGen.write.1.tlog

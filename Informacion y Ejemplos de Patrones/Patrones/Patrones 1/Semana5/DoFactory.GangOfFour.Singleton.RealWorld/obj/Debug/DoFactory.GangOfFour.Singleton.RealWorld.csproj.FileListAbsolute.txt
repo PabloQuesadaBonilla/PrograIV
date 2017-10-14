@@ -1,0 +1,5 @@
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Singleton.RealWorld\bin\Debug\DoFactory.GangOfFour.Singleton.RealWorld.exe
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Singleton.RealWorld\bin\Debug\DoFactory.GangOfFour.Singleton.RealWorld.pdb
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Singleton.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Singleton.RealWorld\obj\Debug\DoFactory.GangOfFour.Singleton.RealWorld.exe
+C:\Users\NXT01\Desktop\Cursos Ulacit\Herramientas de Modelado (2010-2C-16-1003-01)\Semana 5\DoFactory.GangOfFour.Singleton.RealWorld\obj\Debug\DoFactory.GangOfFour.Singleton.RealWorld.pdb

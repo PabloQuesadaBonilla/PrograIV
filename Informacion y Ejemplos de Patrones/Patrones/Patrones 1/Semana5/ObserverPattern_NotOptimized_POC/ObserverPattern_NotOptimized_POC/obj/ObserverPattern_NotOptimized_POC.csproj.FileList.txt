@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ObserverPattern_NotOptimized_POC.NotifyListForm.resources
+obj\Debug\ObserverPattern_NotOptimized_POC.Properties.Resources.resources
+obj\Debug\ObserverPattern_NotOptimized_POC.Subject.resources
+obj\Debug\ObserverPattern_NotOptimized_POC.csproj.GenerateResource.Cache
+bin\Debug\ObserverPattern_NotOptimized_POC.exe
+bin\Debug\ObserverPattern_NotOptimized_POC.pdb
+bin\Debug\Observer.Common.dll
+bin\Debug\Observer.Common.pdb
+obj\Debug\ObserverPattern_NotOptimized_POC.exe
+obj\Debug\ObserverPattern_NotOptimized_POC.pdb
+obj\Debug\ObserverPattern_NotOptimized_POC.NotifyBannerForm.resources
